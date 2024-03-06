@@ -1,17 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/sgt3v.svg?style=social&label=Follow%20%40sgt3v)](https://twitter.com/sgt3v)
 
-
-## OpenAI Unity Package
-An unofficial Unity package that allows you to use the OpenAI API directly in the Unity game engine.
-
-## How To Use
-
-### Youtube Tutorials
-You can find dedicated video tutorials for how to use this package in this YouTube playlist.
-
-https://www.youtube.com/playlist?list=PLrE-FZIEEls1-c7QifZYzeq50Id08FcJo
-
-<img width="655" alt="image" src="https://github.com/srcnalt/OpenAI-Unity/assets/3163281/cf0004cf-ff2d-4dad-955e-259bd5a77786">
 
 ### Importing the Package
 To import the package, follow these steps:
